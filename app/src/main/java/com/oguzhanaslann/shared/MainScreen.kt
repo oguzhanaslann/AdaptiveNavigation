@@ -1,4 +1,4 @@
-package com.base
+package com.oguzhanaslann.shared
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AccountCircle

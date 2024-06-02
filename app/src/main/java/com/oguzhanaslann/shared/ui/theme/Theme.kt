@@ -1,4 +1,4 @@
-package com.oguzhanaslann.adaptivenavigation.ui.theme
+package com.oguzhanaslann.shared.ui.theme
 
 import android.app.Activity
 import android.os.Build
